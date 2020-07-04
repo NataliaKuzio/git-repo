@@ -19,6 +19,5 @@ public class ProductPage {
 
     public void addProduct(){ addButton.click();}
 
-
     public void buyProduct () { addTitle.click();}
 }
